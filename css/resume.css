@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #0076B8;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #0076B8;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -176,20 +176,20 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #94c01a !important;
+  background-color: #9A195D !important;
 }
 
 .text-primary {
   /*color: #BD5D38 !important;*/
-  color: #94c01a !important;
+  color: #9A195D !important;
 }
 
 a {
-  color: #94c01a;
+  color: #9A195D;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #0076B8;
 }
 
 
@@ -242,7 +242,7 @@ a:hover, a:focus, a:active {
 }
 
 .project:hover {
-	border-color: #00a8ff;
+	border-color: #0076B8;
 }
 
 .project:hover .icon-holder {
@@ -377,7 +377,7 @@ a:hover, a:focus, a:active {
 }
 
 .btn.btn-white-fill:hover {
-	color: #00a8ff;
+	color: #0076B8;
 	background: #fff;
 }
 
@@ -415,7 +415,7 @@ nav#filter a {
 	color:#555;
 }
 nav#filter a:hover, nav#filter a.current {
-	background-color: #44BCDD;
+	background-color: #0076B8;
 	color:#fff;
 }
 
@@ -483,7 +483,7 @@ nav#filter a {
   height: 100%;
     transition: all 200ms ease-in-out 0s;
 	opacity: 1;
-	background-color: #008cba;
+	background-color: #0076B8;
 }
 
 .portfolio-item .portfolio-desc a {
@@ -651,7 +651,7 @@ nav#filter a {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: #94c01a;
+  background-color: #0076B8;
   color: white;
   border-radius: 100%;
   border: 7px solid #f1f1f1;
