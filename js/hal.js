@@ -341,7 +341,7 @@ var createPubHTML = function(docs, parent){
   pdfElement.setAttribute("class","imgLink");
   imgPdfElement = document.createElement('img');
   imgPdfElement.setAttribute("title","pdf");
-  imgPdfElement.setAttribute("src","img/icons/pdf_icon.gif");
+  imgPdfElement.setAttribute("src","img/icons/pdf_icon.png");
   imgPdfElement.setAttribute("height","20");
   imgPdfElement.setAttribute("alt","pdf");
   pdfElement.appendChild(imgPdfElement);
@@ -388,7 +388,7 @@ var createTalkHTML = function(docs, parent){
   pdfElement.setAttribute("class","imgLink");
   imgPdfElement = document.createElement('img');
   imgPdfElement.setAttribute("title","pdf");
-  imgPdfElement.setAttribute("src","img/icons/pdf_icon.gif");
+  imgPdfElement.setAttribute("src","img/icons/pdf_icon.png");
   imgPdfElement.setAttribute("height","20");
   imgPdfElement.setAttribute("alt","pdf");
   pdfElement.appendChild(imgPdfElement);
